@@ -1,0 +1,2060 @@
+{
+  "globalContentConfig": {
+    "source": "latest-articles-section-v1",
+    "query": {
+      "uri": "/entretenimiento/",
+      "website": "el-nuevo-dia",
+      "size": "12",
+      "from": "0",
+      "sectionId": "/entretenimiento",
+      "arc-site": "el-nuevo-dia"
+    }
+  },
+  "globalContent": {
+    "articles": [
+      {
+        "adPromo": "",
+        "authors": [
+          {
+            "authorType": "Staff",
+            "avatar": {
+              "alt": "Damaris Hernández Mercado",
+              "defaultUrl": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg",
+              "sources": [
+                {
+                  "srcSet": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg, https://www.elnuevodia.com/resizer/tpGy7ruILqPGqQZKs56fqCfKSOI=/340x294/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg 2x"
+                }
+              ]
+            },
+            "biography": "",
+            "byline": "Damaris Hernández Mercado",
+            "email": "",
+            "id": "damaris-hernandez-mercado",
+            "image": "",
+            "link": "damaris-hernandez-mercado",
+            "longBiography": "",
+            "socialLinks": [
+              {
+                "site": "email",
+                "url": ""
+              }
+            ],
+            "status": true
+          }
+        ],
+        "canonicalUrl": "/entretenimiento/farandula/notas/marilyn-pupo-eddie-fallecio-en-mis-brazos-y-pude-despedirlo/",
+        "contentRestriction": "standard",
+        "contentType": "news",
+        "createdDate": "2021-03-25T20:17:49.427Z",
+        "displayDate": "2021-03-25T21:03:21.466Z",
+        "editorialGenre": "",
+        "firstPublishDate": "2021-03-25T21:03:25.162Z",
+        "headline": "Marilyn Pupo: “Eddie falleció en mis brazos y pude despedirlo”",
+        "id": "LTKRH7CBCNGG5GIOEWWWG4ZKLM",
+        "language": "spanish",
+        "lastUpdatedDate": "2021-03-25T21:03:25.443Z",
+        "mainImageUrl": "https://www.elnuevodia.com/resizer/sfzA9lTHnd2w7tVaErpBcpnS_pA=/1024x0/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg",
+        "primarySection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas sobre entretenimiento en Puerto Rico y el mundo. Encuentra la cobertura más completa sobre música, series, películas, cultura y televisión.",
+          "id": "/entretenimiento",
+          "keywords": "Música, Cine, Películas, Series, Artistas, Televisión, Farándula, Cultura, Teatro, Libros, Arte, Puerto Rico",
+          "name": "Entretenimiento",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/",
+          "slug": "entretenimiento"
+        },
+        "publishedDate": "2021-03-25T21:03:25.449Z",
+        "responsiveImages": {
+          "condensedTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/WtJLOvZ6SNxXiTw9upB_eMCT668=/108x108/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/WtJLOvZ6SNxXiTw9upB_eMCT668=/108x108/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg, https://www.elnuevodia.com/resizer/lJsd4aA2Y_lpWdA_4TIUXI6REq0=/216x216/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/D_AVhPeuvujRaRKn4xfEarH4gVc=/188x163/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/e3oGDWUZ2-vo1R0KoC-BmqM8y44=/564x489/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg, https://www.elnuevodia.com/resizer/_39g8TlBTjEOuDaNZFNnhc1JuLY=/1128x978/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/VQCXMU6X5Ovhk0aL6QnkaZNt_a0=/71x62/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg, https://www.elnuevodia.com/resizer/ZsxzkaXBLlkBBz-G1e_yFisXg9U=/142x124/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/D_AVhPeuvujRaRKn4xfEarH4gVc=/188x163/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg, https://www.elnuevodia.com/resizer/mnRMbPWjyENdroxhDpVDYqFqZMU=/376x326/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaserCondensed": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/ksbKHb3krYxOz8NJf8cgoEWAwdE=/141x70/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/e3oGDWUZ2-vo1R0KoC-BmqM8y44=/564x489/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg, https://www.elnuevodia.com/resizer/_39g8TlBTjEOuDaNZFNnhc1JuLY=/1128x978/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/WSf9dSiKnLzdBkj_iJqL34aiKjE=/71x36/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg, https://www.elnuevodia.com/resizer/CMPRo_lfQt4YbgSS49jfrLUb_1E=/142x72/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/ksbKHb3krYxOz8NJf8cgoEWAwdE=/141x70/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg, https://www.elnuevodia.com/resizer/I6u-m2wVYr2cX5vnXV5q1NnCyLg=/282x140/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg 2x"
+              }
+            ]
+          },
+          "sixteenNine": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/TGjIXzEIaWHypPOKf_FnKYCjejQ=/640x360/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/5mY0N7wBgpOpzjV0EHCbcECUml4=/320x180/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg, https://www.elnuevodia.com/resizer/TGjIXzEIaWHypPOKf_FnKYCjejQ=/640x360/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/TGjIXzEIaWHypPOKf_FnKYCjejQ=/640x360/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg, https://www.elnuevodia.com/resizer/SBDJtp_BXVxuHT751VoFIaseHqw=/1280x720/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg 2x"
+              }
+            ]
+          },
+          "standardCondensableTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/SvXhaebN6fy-CX1SWo7lNrM62b0=/980x980/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/WtJLOvZ6SNxXiTw9upB_eMCT668=/108x108/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg, https://www.elnuevodia.com/resizer/lJsd4aA2Y_lpWdA_4TIUXI6REq0=/216x216/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/tDfaHZFMFzmlVwck0oapRrgujvQ=/490x490/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg, https://www.elnuevodia.com/resizer/SvXhaebN6fy-CX1SWo7lNrM62b0=/980x980/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/SvXhaebN6fy-CX1SWo7lNrM62b0=/980x980/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg, https://www.elnuevodia.com/resizer/5KKZJRc4uon-K5ZIxUhz_ueju30=/1960x1960/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg 2x"
+              }
+            ]
+          },
+          "standardTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/CA6VLLhE6eHgrggL4f5_fMkcA_I=/1200x596/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 375px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/fYahDkh1syZnMY2uB1YoUd7l4m8=/271x134/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg, https://www.elnuevodia.com/resizer/F9z43j4mjoWTNzx-LvVBabKD5FU=/542x268/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/pqe0pWk8C5jOijCEf_cbSlxCOSc=/600x298/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg, https://www.elnuevodia.com/resizer/CA6VLLhE6eHgrggL4f5_fMkcA_I=/1200x596/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/CA6VLLhE6eHgrggL4f5_fMkcA_I=/1200x596/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg, https://www.elnuevodia.com/resizer/N9Iv3wrKnrg2GY02FRHYHUVloPM=/2400x1192/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg 2x"
+              }
+            ]
+          }
+        },
+        "socialShare": {
+          "canonicalUrl": "/entretenimiento/farandula/notas/marilyn-pupo-eddie-fallecio-en-mis-brazos-y-pude-despedirlo/",
+          "imageUrl": "https://www.elnuevodia.com/resizer/gmQgDRMh8OQcmi5toIzAU9oMkKE=/1200x1200/filters:quality(95):format(png):focal(2641.000078856945x1146.500034019351:2651.000078856945x1136.500034019351)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A5QFG3SIORH55H32M2YHIYJUKA.jpg",
+          "subtitle": "La veterana actriz afirmó entre lágrimas que Eduardo Penedo fue y será el gran amor de su vida ",
+          "title": "Marilyn Pupo: “Eddie falleció en mis brazos y pude despedirlo”"
+        },
+        "subheadline": "La veterana actriz afirmó entre lágrimas que Eduardo Penedo fue y será el gran amor de su vida ",
+        "subsection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y entrevistas a los famosos del mundo del espectáculo de Puerto Rico sobre sus proyectos, aspiraciones y vida personal. Encontrarás también la cobertura sobre las reinas de belleza.",
+          "id": "/entretenimiento/farandula",
+          "keywords": "Artista, Farándula, Entrevista, Proyectos, Reina de Belleza, Miss Universe, Miss Mundo, Entretenimiento",
+          "name": "Farándula",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/farandula/",
+          "slug": "farandula"
+        }
+      },
+      {
+        "adPromo": "",
+        "authors": [
+          {
+            "authorType": "Agency",
+            "avatar": {
+              "alt": "The Associated Press",
+              "defaultUrl": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg",
+              "sources": [
+                {
+                  "srcSet": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg, https://www.elnuevodia.com/resizer/tpGy7ruILqPGqQZKs56fqCfKSOI=/340x294/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg 2x"
+                }
+              ]
+            },
+            "biography": "",
+            "byline": "The Associated Press",
+            "email": "",
+            "id": "the-associated-press",
+            "image": "",
+            "link": "the-associated-press",
+            "longBiography": "",
+            "socialLinks": [
+              {
+                "site": "email",
+                "url": ""
+              }
+            ],
+            "status": true
+          }
+        ],
+        "canonicalUrl": "/entretenimiento/peliculas-series/notas/muere-jessica-walter-actriz-de-arrested-development-a-los-80-anos/",
+        "contentRestriction": "standard",
+        "contentType": "news",
+        "createdDate": "2021-03-25T19:35:58.203Z",
+        "displayDate": "2021-03-25T20:03:28.614Z",
+        "editorialGenre": "",
+        "firstPublishDate": "2021-03-25T20:03:55.097Z",
+        "headline": "Muere Jessica Walter, actriz de “Arrested Development”, a los 80 años",
+        "id": "T26AU6ORRJELTFZXM6FSJJFBSA",
+        "language": "spanish",
+        "lastUpdatedDate": "2021-03-25T20:03:55.323Z",
+        "mainImageUrl": "https://www.elnuevodia.com/resizer/X-MA6vmYAqpNKfLlpOtieRb5tRY=/1024x0/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg",
+        "primarySection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas sobre entretenimiento en Puerto Rico y el mundo. Encuentra la cobertura más completa sobre música, series, películas, cultura y televisión.",
+          "id": "/entretenimiento",
+          "keywords": "Música, Cine, Películas, Series, Artistas, Televisión, Farándula, Cultura, Teatro, Libros, Arte, Puerto Rico",
+          "name": "Entretenimiento",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/",
+          "slug": "entretenimiento"
+        },
+        "publishedDate": "2021-03-25T20:03:55.330Z",
+        "responsiveImages": {
+          "condensedTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/2u3PL8C-wvAta8hwozZG9F81WRY=/108x108/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/2u3PL8C-wvAta8hwozZG9F81WRY=/108x108/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg, https://www.elnuevodia.com/resizer/hLaNitQTYEY_qQtaJLOO5kqVmts=/216x216/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/pfg7DSl4-X72rLCHg2YL6YozNbg=/188x163/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/jH0Rn9ZR1wCGR5RgsoU5IzdbRgA=/564x489/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg, https://www.elnuevodia.com/resizer/nAPr1G-85Kc6c13XoINZ0BefKes=/1128x978/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/dnCLML_2bSHRB95VG_4H6HUeHec=/71x62/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg, https://www.elnuevodia.com/resizer/rjgO4eXMBSb-4Gcze6IDGXLf8Zc=/142x124/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/pfg7DSl4-X72rLCHg2YL6YozNbg=/188x163/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg, https://www.elnuevodia.com/resizer/R7OfjlZdWuA-iUcRz2STLljznQE=/376x326/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaserCondensed": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/n0Jjavlgr-MLjMDauq8JrBWak9E=/141x70/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/jH0Rn9ZR1wCGR5RgsoU5IzdbRgA=/564x489/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg, https://www.elnuevodia.com/resizer/nAPr1G-85Kc6c13XoINZ0BefKes=/1128x978/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/pMZb3r1sbTQXY04Layz-KZIa0Jo=/71x36/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg, https://www.elnuevodia.com/resizer/B9dLrvh4kuSSIwcPDk4ymABEeIE=/142x72/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/n0Jjavlgr-MLjMDauq8JrBWak9E=/141x70/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg, https://www.elnuevodia.com/resizer/5KPtc7rcvd3c7yqSE6oI0Vy8NQA=/282x140/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg 2x"
+              }
+            ]
+          },
+          "sixteenNine": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/B72hL1iVbz0d6CyUGkppl5hO5io=/640x360/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/SAD97n4vMiA9Nwqlb6RGaFPB4Z8=/320x180/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg, https://www.elnuevodia.com/resizer/B72hL1iVbz0d6CyUGkppl5hO5io=/640x360/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/B72hL1iVbz0d6CyUGkppl5hO5io=/640x360/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg, https://www.elnuevodia.com/resizer/IKspV8VqStVr3Mddfv2zbd3N_HI=/1280x720/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg 2x"
+              }
+            ]
+          },
+          "standardCondensableTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/mqPx9wj1mmUgomeBZ_k4jsOkG74=/980x980/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/2u3PL8C-wvAta8hwozZG9F81WRY=/108x108/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg, https://www.elnuevodia.com/resizer/hLaNitQTYEY_qQtaJLOO5kqVmts=/216x216/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/m-ASq8nFizMy6PTHC30PnVA-kks=/490x490/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg, https://www.elnuevodia.com/resizer/mqPx9wj1mmUgomeBZ_k4jsOkG74=/980x980/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/mqPx9wj1mmUgomeBZ_k4jsOkG74=/980x980/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg, https://www.elnuevodia.com/resizer/xMK24KMGi1W4PVgLaYp5TjIfYWs=/1960x1960/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg 2x"
+              }
+            ]
+          },
+          "standardTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/zJXseLL-uIleFc6ulO9pJF7248g=/1200x596/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 375px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/cVIPClYqTx1j5bies-26XMKY_Dw=/271x134/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg, https://www.elnuevodia.com/resizer/a-8oZPCLggTtnw5ItsuibWAjpNM=/542x268/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/-WTwAvSlgZ-d8BUcxWsMKY-DL3c=/600x298/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg, https://www.elnuevodia.com/resizer/zJXseLL-uIleFc6ulO9pJF7248g=/1200x596/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/zJXseLL-uIleFc6ulO9pJF7248g=/1200x596/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg, https://www.elnuevodia.com/resizer/0X0LJCtvqSK2tvxUkWNkKu5Sv7E=/2400x1192/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg 2x"
+              }
+            ]
+          }
+        },
+        "socialShare": {
+          "canonicalUrl": "/entretenimiento/peliculas-series/notas/muere-jessica-walter-actriz-de-arrested-development-a-los-80-anos/",
+          "imageUrl": "https://www.elnuevodia.com/resizer/8r2sGqUoiMKgKH-SbPIRyD_X2kU=/1200x1200/filters:quality(95):format(png):focal(1782x696:1792x686)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RSLZO563OZHXZB6KLZXNBR7O3U.jpg",
+          "subtitle": "La legendaria intérprete tuvo una carrera de seis décadas en cine, teatro y televisión",
+          "title": "Muere Jessica Walter, actriz de “Arrested Development”, a los 80 años"
+        },
+        "subheadline": "La legendaria intérprete tuvo una carrera de seis décadas en cine, teatro y televisión",
+        "subsection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas exclusivas de películas y series que se presentan tanto en las salas de cine como en los servicios de streaming. Encuentra la cobertura de premiaciones como los Oscar.",
+          "id": "/entretenimiento/peliculas-series",
+          "keywords": "Reseñas, Películas, Series, Cine, Streaming, Netflix, Hulu, Amazon Video, Apple TV, Entretenimiento, Crítico de cine, Oscars, Golden Globes",
+          "name": "Películas y series",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/peliculas-series",
+          "slug": "peliculas-series"
+        }
+      },
+      {
+        "adPromo": "",
+        "authors": [
+          {
+            "authorType": "Staff",
+            "avatar": {
+              "alt": "ELNUEVODIA.COM",
+              "defaultUrl": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg",
+              "sources": [
+                {
+                  "srcSet": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg, https://www.elnuevodia.com/resizer/tpGy7ruILqPGqQZKs56fqCfKSOI=/340x294/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg 2x"
+                }
+              ]
+            },
+            "biography": "",
+            "byline": "ELNUEVODIA.COM",
+            "email": "",
+            "id": "elnuevodiacom",
+            "image": "",
+            "link": "elnuevodiacom",
+            "longBiography": "",
+            "socialLinks": [
+              {
+                "site": "email",
+                "url": null
+              },
+              {
+                "site": "facebook",
+                "url": null
+              },
+              {
+                "site": "twitter",
+                "url": null
+              }
+            ],
+            "status": false
+          }
+        ],
+        "canonicalUrl": "/entretenimiento/cultura/notas/jose-vega-presenta-exposicion-flores-de-mi-tierra-en-la-biblioteca-carnegie/",
+        "contentRestriction": "standard",
+        "contentType": "news",
+        "createdDate": "2021-03-25T18:01:25.633Z",
+        "displayDate": "2021-03-25T19:04:46.939Z",
+        "editorialGenre": "",
+        "firstPublishDate": "2021-03-25T19:05:13.565Z",
+        "headline": "José Vega presenta exposición “Flores de mi tierra” en la Biblioteca Carnegie",
+        "id": "M6PJONOUGFCZ5PRHUSXUZ4XJFE",
+        "language": "spanish",
+        "lastUpdatedDate": "2021-03-25T19:05:13.559Z",
+        "mainImageUrl": "https://www.elnuevodia.com/resizer/FZsf2O76FftVAB-iBsuK90m28vY=/1024x0/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg",
+        "primarySection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas sobre entretenimiento en Puerto Rico y el mundo. Encuentra la cobertura más completa sobre música, series, películas, cultura y televisión.",
+          "id": "/entretenimiento",
+          "keywords": "Música, Cine, Películas, Series, Artistas, Televisión, Farándula, Cultura, Teatro, Libros, Arte, Puerto Rico",
+          "name": "Entretenimiento",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/",
+          "slug": "entretenimiento"
+        },
+        "publishedDate": "2021-03-25T19:05:13.565Z",
+        "responsiveImages": {
+          "condensedTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/uvQyzsEZGx_-Kd9Hh8_LqLe4-zI=/108x108/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/uvQyzsEZGx_-Kd9Hh8_LqLe4-zI=/108x108/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg, https://www.elnuevodia.com/resizer/HXB-AojfA2SwvnuxqHtSSx6r2IQ=/216x216/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/dKle3Pe5KkWZxpUBc1KPm57tdco=/188x163/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/LwYbdFYk4co69SwIKKdlyqqS08M=/564x489/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg, https://www.elnuevodia.com/resizer/DrH6S28pDl5l5URvuFc2TKWtmGQ=/1128x978/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/JwA8kjK-S3DKw6Z16okWSn21ymg=/71x62/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg, https://www.elnuevodia.com/resizer/O5Hxo4qaTlIIy76wt7pFAacuT7A=/142x124/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/dKle3Pe5KkWZxpUBc1KPm57tdco=/188x163/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg, https://www.elnuevodia.com/resizer/0Ss9y61oVtm8eZPHoOwL270aTpw=/376x326/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaserCondensed": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/2MIA7klZOC9t7O5TlL4Uk7yxf7o=/141x70/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/LwYbdFYk4co69SwIKKdlyqqS08M=/564x489/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg, https://www.elnuevodia.com/resizer/DrH6S28pDl5l5URvuFc2TKWtmGQ=/1128x978/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/GSnJ4hSi1QhoH3VXyZiAKU9D8A0=/71x36/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg, https://www.elnuevodia.com/resizer/TpECbdR9kb92KMj9tNXq4RKHK2M=/142x72/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/2MIA7klZOC9t7O5TlL4Uk7yxf7o=/141x70/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg, https://www.elnuevodia.com/resizer/CY8OpXlTD_B7jB60G4F5raJbKqs=/282x140/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg 2x"
+              }
+            ]
+          },
+          "sixteenNine": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/_owBca1iBZ-w8r1NIWf8y-wVcPk=/640x360/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/1o9gqS7ZtSYv6X3n18t1PBODArU=/320x180/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg, https://www.elnuevodia.com/resizer/_owBca1iBZ-w8r1NIWf8y-wVcPk=/640x360/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/_owBca1iBZ-w8r1NIWf8y-wVcPk=/640x360/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg, https://www.elnuevodia.com/resizer/Q2rh5o9D9jACaegMh_UnMBcoxbY=/1280x720/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg 2x"
+              }
+            ]
+          },
+          "standardCondensableTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/u8658nfuP9nEvCLb7eEM5NUFAR8=/980x980/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/uvQyzsEZGx_-Kd9Hh8_LqLe4-zI=/108x108/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg, https://www.elnuevodia.com/resizer/HXB-AojfA2SwvnuxqHtSSx6r2IQ=/216x216/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/UaRBeR9TvJrtFVJrZ4_ntcaCSSg=/490x490/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg, https://www.elnuevodia.com/resizer/u8658nfuP9nEvCLb7eEM5NUFAR8=/980x980/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/u8658nfuP9nEvCLb7eEM5NUFAR8=/980x980/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg, https://www.elnuevodia.com/resizer/JStICcfeWc1NYfbPM6XEH7jyN6I=/1960x1960/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg 2x"
+              }
+            ]
+          },
+          "standardTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/g6-YQ5HmSb-T2-ihxUa6pm5QsbQ=/1200x596/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 375px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/mGtWHXdL3GO11Ph9hklWIP432II=/271x134/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg, https://www.elnuevodia.com/resizer/g-yccZDXvcMZxp0qWhDSzEXJpI0=/542x268/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/INYs7zGdbteL7vVdmW5AVL-DWWs=/600x298/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg, https://www.elnuevodia.com/resizer/g6-YQ5HmSb-T2-ihxUa6pm5QsbQ=/1200x596/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/g6-YQ5HmSb-T2-ihxUa6pm5QsbQ=/1200x596/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg, https://www.elnuevodia.com/resizer/TqOVLfFFc5UDT502L6XaMcTH8Ig=/2400x1192/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg 2x"
+              }
+            ]
+          }
+        },
+        "socialShare": {
+          "canonicalUrl": "/entretenimiento/cultura/notas/jose-vega-presenta-exposicion-flores-de-mi-tierra-en-la-biblioteca-carnegie/",
+          "imageUrl": "https://www.elnuevodia.com/resizer/nzk6CNHCRUkq_S-k7fypKGTFNh4=/1200x1200/filters:quality(95):format(png):focal(702x598:712x588)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/XUHNTNUN5ZFNZL6SFUVBJ6O7RI.jpg",
+          "subtitle": "Esta colección del artista conocido por su personaje del payaso Remi consta de alrededor de 40 piezas, algunas de estilo libre y otras abstractas",
+          "title": "José Vega presenta exposición “Flores de mi tierra” en la Biblioteca Carnegie"
+        },
+        "subheadline": "Esta colección del artista conocido por su personaje del payaso Remi consta de alrededor de 40 piezas, algunas de estilo libre y otras abstractas",
+        "subsection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias, entrevistas y reseñas del quehacer cultural de Puerto Rico como obras de teatro, museos, ópera, orquesta sinfónica, performance, ferias, exposiciones, circo, arte y más.",
+          "id": "/entretenimiento/cultura",
+          "keywords": "Teatro, Obras, Ópera, Cultura, Instituto de Cultura Puertorriqueña, Exposiciones, Performance, Arte, Pintura, Orquesta Sinfónica, Puerto Rico, Museo, Entretenimiento",
+          "name": "Cultura",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/cultura/",
+          "slug": "cultura"
+        }
+      },
+      {
+        "adPromo": "coronavirus",
+        "authors": [
+          {
+            "authorType": "Staff",
+            "avatar": {
+              "alt": "ELNUEVODIA.COM",
+              "defaultUrl": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg",
+              "sources": [
+                {
+                  "srcSet": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg, https://www.elnuevodia.com/resizer/tpGy7ruILqPGqQZKs56fqCfKSOI=/340x294/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg 2x"
+                }
+              ]
+            },
+            "biography": "",
+            "byline": "ELNUEVODIA.COM",
+            "email": "",
+            "id": "elnuevodiacom",
+            "image": "",
+            "link": "elnuevodiacom",
+            "longBiography": "",
+            "socialLinks": [
+              {
+                "site": "email",
+                "url": null
+              },
+              {
+                "site": "facebook",
+                "url": null
+              },
+              {
+                "site": "twitter",
+                "url": null
+              }
+            ],
+            "status": false
+          }
+        ],
+        "canonicalUrl": "/entretenimiento/television/notas/lamentan-el-fallecimiento-por-covid-19-de-alberto-ciurana-ejecutivo-destacado-de-la-television-mexicana/",
+        "contentRestriction": "standard",
+        "contentType": "news",
+        "createdDate": "2021-03-25T17:15:02.122Z",
+        "displayDate": "2021-03-25T19:01:33.801Z",
+        "editorialGenre": "",
+        "firstPublishDate": "2021-03-25T19:01:41.831Z",
+        "headline": "Lamentan el fallecimiento por COVID-19 de Alberto Ciurana, ejecutivo destacado de la televisión mexicana",
+        "id": "6PY4FMXELBCE7LMKPHOLX7PX5Y",
+        "language": "spanish",
+        "lastUpdatedDate": "2021-03-25T19:01:42.107Z",
+        "mainImageUrl": "https://www.elnuevodia.com/resizer/0i3ApUD_JW7HekB5P_01LXpMuOQ=/1024x0/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG",
+        "primarySection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas sobre entretenimiento en Puerto Rico y el mundo. Encuentra la cobertura más completa sobre música, series, películas, cultura y televisión.",
+          "id": "/entretenimiento",
+          "keywords": "Música, Cine, Películas, Series, Artistas, Televisión, Farándula, Cultura, Teatro, Libros, Arte, Puerto Rico",
+          "name": "Entretenimiento",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/",
+          "slug": "entretenimiento"
+        },
+        "publishedDate": "2021-03-25T19:01:42.114Z",
+        "responsiveImages": {
+          "condensedTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/aeGdggtLezg_XR7kAbUUdPhsT_I=/108x108/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/aeGdggtLezg_XR7kAbUUdPhsT_I=/108x108/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG, https://www.elnuevodia.com/resizer/dX34f3HQzNhBXQO79jqyYDW0dhI=/216x216/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG 2x"
+              }
+            ]
+          },
+          "listItemTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/a8-ILYI9lLQk6PQmxIEVyXk_J9A=/188x163/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/MPrXMLF6AqG3fFT3hsQgwZ8PNA0=/564x489/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG, https://www.elnuevodia.com/resizer/1_J9T1VAE-I2ZznDUY83c2RwUCY=/1128x978/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/WZlXLTGOL5OiIaMSm4NyDVDBhA0=/71x62/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG, https://www.elnuevodia.com/resizer/PwQ8LGdoY8ETq89xMVT90rnqV4M=/142x124/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/a8-ILYI9lLQk6PQmxIEVyXk_J9A=/188x163/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG, https://www.elnuevodia.com/resizer/ivvapFUwji0sdogoWbRWjbuGK8s=/376x326/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG 2x"
+              }
+            ]
+          },
+          "listItemTeaserCondensed": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/6w0CSbCdvyxYEZoc1RHVkXDR81M=/141x70/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/MPrXMLF6AqG3fFT3hsQgwZ8PNA0=/564x489/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG, https://www.elnuevodia.com/resizer/1_J9T1VAE-I2ZznDUY83c2RwUCY=/1128x978/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/cth3GrG26NKlrp0hIsGigtQvrqA=/71x36/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG, https://www.elnuevodia.com/resizer/1QaeKwWvPhDOH-AgAYuI98uKw9o=/142x72/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/6w0CSbCdvyxYEZoc1RHVkXDR81M=/141x70/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG, https://www.elnuevodia.com/resizer/HBdoxPx3j-z2zLfxjkUKGDT_ewY=/282x140/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG 2x"
+              }
+            ]
+          },
+          "sixteenNine": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/MyYSNHL01lOxKdsmfud_o3gRnfY=/640x360/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/KgugDHDi52lTdCQqGtPBBoOa3u8=/320x180/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG, https://www.elnuevodia.com/resizer/MyYSNHL01lOxKdsmfud_o3gRnfY=/640x360/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/MyYSNHL01lOxKdsmfud_o3gRnfY=/640x360/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG, https://www.elnuevodia.com/resizer/X6FVd8JiAoYazP6NU7PzYIKwt24=/1280x720/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG 2x"
+              }
+            ]
+          },
+          "standardCondensableTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/sAXFQy-GEmqbkOqxXdg6BUL6ddQ=/980x980/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG",
+            "sources": [
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/aeGdggtLezg_XR7kAbUUdPhsT_I=/108x108/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG, https://www.elnuevodia.com/resizer/dX34f3HQzNhBXQO79jqyYDW0dhI=/216x216/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/iPkLGOUZCpwMIuyhYDMP0rGLYdI=/490x490/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG, https://www.elnuevodia.com/resizer/sAXFQy-GEmqbkOqxXdg6BUL6ddQ=/980x980/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/sAXFQy-GEmqbkOqxXdg6BUL6ddQ=/980x980/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG, https://www.elnuevodia.com/resizer/LoGuYe9oBIG8o9Uy9r1OD5yGgJA=/1960x1960/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG 2x"
+              }
+            ]
+          },
+          "standardTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/7WdORFtnRSjI71JRXwHeDagTTS8=/1200x596/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG",
+            "sources": [
+              {
+                "media": "(max-width: 375px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/zdSqaXp7LXE0_07ysG9HXkEweOA=/271x134/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG, https://www.elnuevodia.com/resizer/4FnOeSFVxSXRK4rHHGOJ3Ezqk0o=/542x268/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/OHFAWn_C9DQ9JPWMYRKx63ybRXo=/600x298/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG, https://www.elnuevodia.com/resizer/7WdORFtnRSjI71JRXwHeDagTTS8=/1200x596/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/7WdORFtnRSjI71JRXwHeDagTTS8=/1200x596/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG, https://www.elnuevodia.com/resizer/5Q4K5V0doypE76P6W_VQ9kSjECw=/2400x1192/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG 2x"
+              }
+            ]
+          }
+        },
+        "socialShare": {
+          "canonicalUrl": "/entretenimiento/television/notas/lamentan-el-fallecimiento-por-covid-19-de-alberto-ciurana-ejecutivo-destacado-de-la-television-mexicana/",
+          "imageUrl": "https://www.elnuevodia.com/resizer/jpddS_d9wRclMBcdOIFCDHsetNU=/1200x1200/filters:quality(95):format(png):focal(1666x589:1676x579)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/7QQJZNKAEZB4HFIGMHNAHSWCTA.JPG",
+          "subtitle": "Considerado como un pilar del entretenimiento en México, este había recibido la primera dosis de la vacuna",
+          "title": "Lamentan el fallecimiento por COVID-19 de Alberto Ciurana, ejecutivo destacado de la televisión mexicana"
+        },
+        "subheadline": "Considerado como un pilar del entretenimiento en México, este había recibido la primera dosis de la vacuna",
+        "subsection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Cobertura noticiosa sobre la industria de la televisión en Puerto Rico y de su programación de entretenimiento.",
+          "id": "/entretenimiento/television",
+          "keywords": "Televisión, WAPA, Telemundo, WIPR, Mega TV, Univision, Programas, Entretenimiento, Televisión pública, Emmys",
+          "name": "Televisión",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/television/",
+          "slug": "television"
+        }
+      },
+      {
+        "adPromo": "",
+        "authors": [
+          {
+            "authorType": "Staff",
+            "avatar": {
+              "alt": "ELNUEVODIA.COM",
+              "defaultUrl": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg",
+              "sources": [
+                {
+                  "srcSet": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg, https://www.elnuevodia.com/resizer/tpGy7ruILqPGqQZKs56fqCfKSOI=/340x294/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg 2x"
+                }
+              ]
+            },
+            "biography": "",
+            "byline": "ELNUEVODIA.COM",
+            "email": "",
+            "id": "elnuevodiacom",
+            "image": "",
+            "link": "elnuevodiacom",
+            "longBiography": "",
+            "socialLinks": [
+              {
+                "site": "email",
+                "url": null
+              },
+              {
+                "site": "facebook",
+                "url": null
+              },
+              {
+                "site": "twitter",
+                "url": null
+              }
+            ],
+            "status": false
+          }
+        ],
+        "canonicalUrl": "/entretenimiento/musica/notas/jowell-y-randy-ganan-premio-ascap-por-safaera/",
+        "contentRestriction": "standard",
+        "contentType": "news",
+        "createdDate": "2021-03-25T14:08:00.212Z",
+        "displayDate": "2021-03-25T16:33:47.086Z",
+        "editorialGenre": "",
+        "firstPublishDate": "2021-03-25T16:34:14.720Z",
+        "headline": "Jowell y Randy ganan premio ASCAP por “Safaera”",
+        "id": "XBBKLLLZ3BCADD3XG46UIW53AA",
+        "language": "spanish",
+        "lastUpdatedDate": "2021-03-25T16:34:14.716Z",
+        "mainImageUrl": "https://www.elnuevodia.com/resizer/8WpfRiiCo-3IyQwlC5RgFMLuwD0=/1024x0/center/top/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG",
+        "primarySection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas sobre entretenimiento en Puerto Rico y el mundo. Encuentra la cobertura más completa sobre música, series, películas, cultura y televisión.",
+          "id": "/entretenimiento",
+          "keywords": "Música, Cine, Películas, Series, Artistas, Televisión, Farándula, Cultura, Teatro, Libros, Arte, Puerto Rico",
+          "name": "Entretenimiento",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/",
+          "slug": "entretenimiento"
+        },
+        "publishedDate": "2021-03-25T16:34:14.720Z",
+        "responsiveImages": {
+          "condensedTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/6rjxdu5m47d1AeeF9xnf29PKJ5c=/108x108/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/6rjxdu5m47d1AeeF9xnf29PKJ5c=/108x108/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG, https://www.elnuevodia.com/resizer/4Ngpmh4wQ86QIYOWasXPyAxtT70=/216x216/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG 2x"
+              }
+            ]
+          },
+          "listItemTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/99jIaqbB9lVdzPXQW45REMDnFmE=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/BQNroEdGSpXGxYp1LaOvb91eD5U=/564x489/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG, https://www.elnuevodia.com/resizer/Yyq8TvPP6VU6rNacoStmzQ0jkRk=/1128x978/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/CxqtWE44Z3aSx9zV0RhdJPxOI1k=/71x62/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG, https://www.elnuevodia.com/resizer/8fx_f3CW9NUcRT3_TreIWswnWeY=/142x124/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/99jIaqbB9lVdzPXQW45REMDnFmE=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG, https://www.elnuevodia.com/resizer/jsIUnAttg61F3E6qOoby82qU02Q=/376x326/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG 2x"
+              }
+            ]
+          },
+          "listItemTeaserCondensed": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/pNTB16KgvVg9kOzRKMPUJ2vOFg8=/141x70/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/BQNroEdGSpXGxYp1LaOvb91eD5U=/564x489/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG, https://www.elnuevodia.com/resizer/Yyq8TvPP6VU6rNacoStmzQ0jkRk=/1128x978/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/mtolbGrKP6yeegE8DFfRkWH0BC8=/71x36/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG, https://www.elnuevodia.com/resizer/DxwNROuQDqc9sF6f1qDs-RdNPmA=/142x72/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/pNTB16KgvVg9kOzRKMPUJ2vOFg8=/141x70/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG, https://www.elnuevodia.com/resizer/jtKPGRiEHy089ThGAP91C4LAkpc=/282x140/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG 2x"
+              }
+            ]
+          },
+          "sixteenNine": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/2rA81hcnnBU6dufGZLtrJt7lRGs=/640x360/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/FVqVnfvXtG0VpxWC_1Ku2CjXpO0=/320x180/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG, https://www.elnuevodia.com/resizer/2rA81hcnnBU6dufGZLtrJt7lRGs=/640x360/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/2rA81hcnnBU6dufGZLtrJt7lRGs=/640x360/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG, https://www.elnuevodia.com/resizer/D5-IwEzySwv9ae8QZSxZH6KedTA=/1280x720/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG 2x"
+              }
+            ]
+          },
+          "standardCondensableTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/ztZqNbOMpK6upj49aJHO80SDYf8=/980x980/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG",
+            "sources": [
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/6rjxdu5m47d1AeeF9xnf29PKJ5c=/108x108/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG, https://www.elnuevodia.com/resizer/4Ngpmh4wQ86QIYOWasXPyAxtT70=/216x216/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/BCSMZUWNFF7MugI3IfXuVlNYUHg=/490x490/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG, https://www.elnuevodia.com/resizer/ztZqNbOMpK6upj49aJHO80SDYf8=/980x980/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/ztZqNbOMpK6upj49aJHO80SDYf8=/980x980/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG, https://www.elnuevodia.com/resizer/hT6h4mhiXLEq1CQxpeew5bwVHnU=/1960x1960/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG 2x"
+              }
+            ]
+          },
+          "standardTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/PojZGtkK57IApK9RZ0tMb82-Wu0=/1200x596/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG",
+            "sources": [
+              {
+                "media": "(max-width: 375px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/aVdzCZ4KDpNacy3MN5gdUwbpOVA=/271x134/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG, https://www.elnuevodia.com/resizer/9pfeMs4c2uiSv9-dp1GoLT7HMEo=/542x268/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/aGIZ-oPWhMDhTBKKgdaGzehYap4=/600x298/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG, https://www.elnuevodia.com/resizer/PojZGtkK57IApK9RZ0tMb82-Wu0=/1200x596/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/PojZGtkK57IApK9RZ0tMb82-Wu0=/1200x596/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG, https://www.elnuevodia.com/resizer/Qm0CNa-4f3NpittpY_q35T9FbTo=/2400x1192/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG 2x"
+              }
+            ]
+          }
+        },
+        "socialShare": {
+          "canonicalUrl": "/entretenimiento/musica/notas/jowell-y-randy-ganan-premio-ascap-por-safaera/",
+          "imageUrl": "https://www.elnuevodia.com/resizer/vtK2-nnHF31nKsmj4UjoUyPBtB4=/1200x1200/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/RORDOH3EMVDITHNQRM7LADN2HE.JPG",
+          "subtitle": "Agradecen a Bad Bunny la colaboración musical que se coloca como uno los temas con mayor número de reproducciones en el mundo ",
+          "title": "Jowell y Randy ganan premio ASCAP por “Safaera”"
+        },
+        "subheadline": "Agradecen a Bad Bunny la colaboración musical que se coloca como uno los temas con mayor número de reproducciones en el mundo ",
+        "subsection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias sobre estrenos musiciales, entrevistas exclusivas a cantantes, reseñas de conciertos y mucho más.",
+          "id": "/entretenimiento/musica",
+          "keywords": "Música, Cantante, Álbum, Disco, Canción, Single, Entrevista, Reseña, Entretenimiento, Concierto, Coliseo de Puerto Rico",
+          "name": "Música",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/musica/",
+          "slug": "musica"
+        }
+      },
+      {
+        "adPromo": "",
+        "authors": [
+          {
+            "authorType": "Agency",
+            "avatar": {
+              "alt": "The Associated Press",
+              "defaultUrl": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg",
+              "sources": [
+                {
+                  "srcSet": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg, https://www.elnuevodia.com/resizer/tpGy7ruILqPGqQZKs56fqCfKSOI=/340x294/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg 2x"
+                }
+              ]
+            },
+            "biography": "",
+            "byline": "The Associated Press",
+            "email": "",
+            "id": "the-associated-press",
+            "image": "",
+            "link": "the-associated-press",
+            "longBiography": "",
+            "socialLinks": [
+              {
+                "site": "email",
+                "url": ""
+              }
+            ],
+            "status": true
+          }
+        ],
+        "canonicalUrl": "/entretenimiento/peliculas-series/notas/18-anos-despues-serie-de-netflix-indaga-quien-mato-a-sara/",
+        "contentRestriction": "standard",
+        "contentType": "news",
+        "createdDate": "2021-03-25T16:16:04.030Z",
+        "displayDate": "2021-03-25T16:32:58.054Z",
+        "editorialGenre": "",
+        "firstPublishDate": "2021-03-25T16:33:24.647Z",
+        "headline": "18 años después, serie de Netflix indaga “¿Quién mató a Sara?”",
+        "id": "GKUXD6WII5HMZIVXYNCYD234Y4",
+        "language": "spanish",
+        "lastUpdatedDate": "2021-03-25T16:33:24.942Z",
+        "mainImageUrl": "https://www.elnuevodia.com/resizer/mW2Ej8rmxYTtNG_Akq4vvddlh6Y=/1024x0/center/top/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg",
+        "primarySection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas sobre entretenimiento en Puerto Rico y el mundo. Encuentra la cobertura más completa sobre música, series, películas, cultura y televisión.",
+          "id": "/entretenimiento",
+          "keywords": "Música, Cine, Películas, Series, Artistas, Televisión, Farándula, Cultura, Teatro, Libros, Arte, Puerto Rico",
+          "name": "Entretenimiento",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/",
+          "slug": "entretenimiento"
+        },
+        "publishedDate": "2021-03-25T16:33:24.948Z",
+        "responsiveImages": {
+          "condensedTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/2tyWLlXZSZSC6xPmcidJV_bnGXk=/108x108/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/2tyWLlXZSZSC6xPmcidJV_bnGXk=/108x108/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg, https://www.elnuevodia.com/resizer/eZFtNql2ndNgaV7B0mRxMcJe0jA=/216x216/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/K_ddZBusySa1mu6k5m7bZDH7ooU=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/KAxLjec6WvJrFyo8YWT-GbzvxmQ=/564x489/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg, https://www.elnuevodia.com/resizer/Bz-EFmmsiS0-xS3UH7ThWP41Sxg=/1128x978/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/pKKHK8RSln3QqZYagL8V2tqmdLI=/71x62/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg, https://www.elnuevodia.com/resizer/drGZXtP97GBi697CQaBYsiz7abY=/142x124/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/K_ddZBusySa1mu6k5m7bZDH7ooU=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg, https://www.elnuevodia.com/resizer/16fythDyMgXj3b7DVHnhpkZZkgk=/376x326/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaserCondensed": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/JvrPhlGIufuHTCdkclnKZGbYj84=/141x70/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/KAxLjec6WvJrFyo8YWT-GbzvxmQ=/564x489/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg, https://www.elnuevodia.com/resizer/Bz-EFmmsiS0-xS3UH7ThWP41Sxg=/1128x978/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/BAPNVzcYYmoZWKkwm9Z0dokBu8A=/71x36/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg, https://www.elnuevodia.com/resizer/7OXSELOAfAur-6BgFKrBMtlb85c=/142x72/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/JvrPhlGIufuHTCdkclnKZGbYj84=/141x70/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg, https://www.elnuevodia.com/resizer/P4mK4KRr5k0RUk6f8GlU2qYB_bE=/282x140/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg 2x"
+              }
+            ]
+          },
+          "sixteenNine": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/iUcp3RiQPfNiqVjhTZiEA9Eim7I=/640x360/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/N724HMUCqgZ8b6UBNnbiFz0j7t0=/320x180/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg, https://www.elnuevodia.com/resizer/iUcp3RiQPfNiqVjhTZiEA9Eim7I=/640x360/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/iUcp3RiQPfNiqVjhTZiEA9Eim7I=/640x360/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg, https://www.elnuevodia.com/resizer/MNyLauQGWnkGM93W5vNLxjNmA_c=/1280x720/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg 2x"
+              }
+            ]
+          },
+          "standardCondensableTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/uAalEe6c0GD5y0tb0_wwkA9LJLI=/980x980/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/2tyWLlXZSZSC6xPmcidJV_bnGXk=/108x108/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg, https://www.elnuevodia.com/resizer/eZFtNql2ndNgaV7B0mRxMcJe0jA=/216x216/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/cjoADsz8xFId9RSFElzul9YXyTk=/490x490/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg, https://www.elnuevodia.com/resizer/uAalEe6c0GD5y0tb0_wwkA9LJLI=/980x980/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/uAalEe6c0GD5y0tb0_wwkA9LJLI=/980x980/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg, https://www.elnuevodia.com/resizer/TuvDs2qzU7JyozgMH_8ktMGc4MA=/1960x1960/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg 2x"
+              }
+            ]
+          },
+          "standardTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/y4tQ-ZFVkvmkws19ZhIjllP5EEI=/1200x596/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 375px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/oPyyA8nhYDNF2LXx0PTAPdiN62U=/271x134/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg, https://www.elnuevodia.com/resizer/ST3R5oTuBsjgdSQCc0mHwf5sGFQ=/542x268/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/ddzLSFH_2t11DjJvRjTsKcxF6DM=/600x298/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg, https://www.elnuevodia.com/resizer/y4tQ-ZFVkvmkws19ZhIjllP5EEI=/1200x596/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/y4tQ-ZFVkvmkws19ZhIjllP5EEI=/1200x596/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg, https://www.elnuevodia.com/resizer/H5refokcjHJ8lnMdiKU6ywn2b9U=/2400x1192/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg 2x"
+              }
+            ]
+          }
+        },
+        "socialShare": {
+          "canonicalUrl": "/entretenimiento/peliculas-series/notas/18-anos-despues-serie-de-netflix-indaga-quien-mato-a-sara/",
+          "imageUrl": "https://www.elnuevodia.com/resizer/bgA6xbiUgeXT2MVOQAynvTmZ3TQ=/1200x1200/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/A52NRCRXGJDOPONALDW3PPGTB4.jpg",
+          "subtitle": "Además de su estreno en 190 países, será la primera serie hablada en español del servicio de “streaming” doblada a ocho idiomas",
+          "title": "18 años después, serie de Netflix indaga “¿Quién mató a Sara?”"
+        },
+        "subheadline": "Además de su estreno en 190 países, será la primera serie hablada en español del servicio de “streaming” doblada a ocho idiomas",
+        "subsection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas exclusivas de películas y series que se presentan tanto en las salas de cine como en los servicios de streaming. Encuentra la cobertura de premiaciones como los Oscar.",
+          "id": "/entretenimiento/peliculas-series",
+          "keywords": "Reseñas, Películas, Series, Cine, Streaming, Netflix, Hulu, Amazon Video, Apple TV, Entretenimiento, Crítico de cine, Oscars, Golden Globes",
+          "name": "Películas y series",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/peliculas-series",
+          "slug": "peliculas-series"
+        }
+      },
+      {
+        "adPromo": "",
+        "authors": [
+          {
+            "authorType": "Staff",
+            "avatar": {
+              "alt": "Mariela Fullana Acosta",
+              "defaultUrl": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg",
+              "sources": [
+                {
+                  "srcSet": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg, https://www.elnuevodia.com/resizer/tpGy7ruILqPGqQZKs56fqCfKSOI=/340x294/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg 2x"
+                }
+              ]
+            },
+            "biography": "",
+            "byline": "Mariela Fullana Acosta",
+            "email": "mariela.fullana@gfrmedia.com",
+            "id": "mariela-fullana-acosta",
+            "image": "",
+            "link": "mariela-fullana-acosta",
+            "longBiography": "",
+            "socialLinks": [
+              {
+                "site": "email",
+                "url": "mariela.fullana@gfrmedia.com"
+              }
+            ],
+            "status": true
+          }
+        ],
+        "canonicalUrl": "/entretenimiento/cultura/notas/el-fotografo-manny-gonzo-gonzalez-pinta-con-naturaleza-edificios-y-espacios-olvidados/",
+        "contentRestriction": "standard",
+        "contentType": "news",
+        "createdDate": "2021-03-23T20:45:52.235Z",
+        "displayDate": "2021-03-25T15:00:00Z",
+        "editorialGenre": "",
+        "firstPublishDate": "2021-03-25T15:00:00.338Z",
+        "headline": "El fotógrafo Manny “Gonzo” González pinta con naturaleza  edificios y espacios olvidados ",
+        "id": "FMFD7DJ7RZF3TC42KTF6ZHG32M",
+        "language": "spanish",
+        "lastUpdatedDate": "2021-03-25T21:40:30.646Z",
+        "mainImageUrl": "https://www.elnuevodia.com/resizer/S8YxORIHxS4qMOmgyJmNdxHearw=/1024x0/center/top/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg",
+        "primarySection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas sobre entretenimiento en Puerto Rico y el mundo. Encuentra la cobertura más completa sobre música, series, películas, cultura y televisión.",
+          "id": "/entretenimiento",
+          "keywords": "Música, Cine, Películas, Series, Artistas, Televisión, Farándula, Cultura, Teatro, Libros, Arte, Puerto Rico",
+          "name": "Entretenimiento",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/",
+          "slug": "entretenimiento"
+        },
+        "publishedDate": "2021-03-25T21:40:30.653Z",
+        "responsiveImages": {
+          "condensedTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/vRzGBM1OhT6FhlMwS4uIqpRy2yE=/108x108/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/vRzGBM1OhT6FhlMwS4uIqpRy2yE=/108x108/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg, https://www.elnuevodia.com/resizer/EM5ZGZeDIZL2U-R-0EfavWB6RFQ=/216x216/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/iztKvtJy7oQackGP4T-vwHfq6Co=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/M15RVL02iLnejsNTkP3c3k300_Q=/564x489/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg, https://www.elnuevodia.com/resizer/UjAH_NXlrOFh6pI6UkPq-W-8W-A=/1128x978/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/ptYqxn3ewcmsn-ZFW5HlcJJHZJI=/71x62/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg, https://www.elnuevodia.com/resizer/2cjskbubbb39NXuVbPSFP4ifRtY=/142x124/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/iztKvtJy7oQackGP4T-vwHfq6Co=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg, https://www.elnuevodia.com/resizer/lVQHbSqF0HdhS6dNRuiOTVJls9E=/376x326/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaserCondensed": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/rjcGmG7powZaaOVZvgbi_MgHIfg=/141x70/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/M15RVL02iLnejsNTkP3c3k300_Q=/564x489/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg, https://www.elnuevodia.com/resizer/UjAH_NXlrOFh6pI6UkPq-W-8W-A=/1128x978/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/gPZ3t4CQ78Mfe3rBUhasVVuWXGg=/71x36/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg, https://www.elnuevodia.com/resizer/C4d2b62DH_XrH-ARR5ZB7zPIrI8=/142x72/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/rjcGmG7powZaaOVZvgbi_MgHIfg=/141x70/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg, https://www.elnuevodia.com/resizer/1US8qYjCvuWyXPnqiCT6y8eEkxw=/282x140/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg 2x"
+              }
+            ]
+          },
+          "sixteenNine": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/eLiN0L7gHPMT9VP9uzzW8YmKMcQ=/640x360/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/-PktbldGW5HRc69H5A67ugZmU2o=/320x180/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg, https://www.elnuevodia.com/resizer/eLiN0L7gHPMT9VP9uzzW8YmKMcQ=/640x360/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/eLiN0L7gHPMT9VP9uzzW8YmKMcQ=/640x360/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg, https://www.elnuevodia.com/resizer/twt-kfjTum7zZQIzZqPf91CAnkQ=/1280x720/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg 2x"
+              }
+            ]
+          },
+          "standardCondensableTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/8awnXHzOK2cGRhRs1kufITGFTYI=/980x980/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/vRzGBM1OhT6FhlMwS4uIqpRy2yE=/108x108/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg, https://www.elnuevodia.com/resizer/EM5ZGZeDIZL2U-R-0EfavWB6RFQ=/216x216/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/b0Z4U586w4RWEf3ZpguzJxOS73s=/490x490/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg, https://www.elnuevodia.com/resizer/8awnXHzOK2cGRhRs1kufITGFTYI=/980x980/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/8awnXHzOK2cGRhRs1kufITGFTYI=/980x980/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg, https://www.elnuevodia.com/resizer/wqSmOTGm6vk96mn6koMfrF1-sp8=/1960x1960/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg 2x"
+              }
+            ]
+          },
+          "standardTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/zpIELb_QTA01sh5NH6ZFw17S1vY=/1200x596/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 375px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/hsJCjKxa34vMCUcdD0uyibac1lg=/271x134/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg, https://www.elnuevodia.com/resizer/jp_qJol5M_4LNsHFuRHJitRcdU8=/542x268/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/3VBwWFDaa6sCGIivBDnlp8qbUvk=/600x298/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg, https://www.elnuevodia.com/resizer/zpIELb_QTA01sh5NH6ZFw17S1vY=/1200x596/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/zpIELb_QTA01sh5NH6ZFw17S1vY=/1200x596/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg, https://www.elnuevodia.com/resizer/J1CSUatXJ04uRS1Fq2eA9Gg-QTI=/2400x1192/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg 2x"
+              }
+            ]
+          }
+        },
+        "socialShare": {
+          "canonicalUrl": "/entretenimiento/cultura/notas/el-fotografo-manny-gonzo-gonzalez-pinta-con-naturaleza-edificios-y-espacios-olvidados/",
+          "imageUrl": "https://www.elnuevodia.com/resizer/zeaSdSwJug258NjDAO_9zPwXdoE=/1200x1200/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/V2WUMAE5TZANZNBGDWMP4GWV4Y.jpg",
+          "subtitle": "Hace un año el artista comenzó un proyecto de arte público donde pega sus fotografías en diversos espacios abandonados del país",
+          "title": "El fotógrafo Manny “Gonzo” González pinta con naturaleza  edificios y espacios olvidados "
+        },
+        "subheadline": "Hace un año el artista comenzó un proyecto de arte público donde pega sus fotografías en diversos espacios abandonados del país",
+        "subsection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias, entrevistas y reseñas del quehacer cultural de Puerto Rico como obras de teatro, museos, ópera, orquesta sinfónica, performance, ferias, exposiciones, circo, arte y más.",
+          "id": "/entretenimiento/cultura",
+          "keywords": "Teatro, Obras, Ópera, Cultura, Instituto de Cultura Puertorriqueña, Exposiciones, Performance, Arte, Pintura, Orquesta Sinfónica, Puerto Rico, Museo, Entretenimiento",
+          "name": "Cultura",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/cultura/",
+          "slug": "cultura"
+        }
+      },
+      {
+        "adPromo": "",
+        "authors": [
+          {
+            "authorType": "Agency",
+            "avatar": {
+              "alt": "Agencia EFE",
+              "defaultUrl": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg",
+              "sources": [
+                {
+                  "srcSet": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg, https://www.elnuevodia.com/resizer/tpGy7ruILqPGqQZKs56fqCfKSOI=/340x294/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg 2x"
+                }
+              ]
+            },
+            "biography": "",
+            "byline": "Agencia EFE",
+            "email": "",
+            "id": "agencia-efe",
+            "image": "",
+            "link": "agencia-efe",
+            "longBiography": "",
+            "socialLinks": [
+              {
+                "site": "email",
+                "url": ""
+              }
+            ],
+            "status": true
+          }
+        ],
+        "canonicalUrl": "/entretenimiento/peliculas-series/notas/national-treasure-la-serie-de-disney-tendra-una-protagonista-latina/",
+        "contentRestriction": "standard",
+        "contentType": "news",
+        "createdDate": "2021-03-25T14:31:36.400Z",
+        "displayDate": "2021-03-25T14:31:39.516Z",
+        "editorialGenre": "",
+        "firstPublishDate": "2021-03-25T14:31:41.334Z",
+        "headline": "“National Treasure”, la serie de Disney+, tendrá una protagonista latina",
+        "id": "YVJRTXANEVHLXJEBB5K54U7SQA",
+        "language": "spanish",
+        "lastUpdatedDate": "2021-03-25T14:32:19.240Z",
+        "mainImageUrl": "https://www.elnuevodia.com/resizer/E6UPLYA5ZGzHyEevcq9x0_1VLLg=/1024x0/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg",
+        "primarySection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas sobre entretenimiento en Puerto Rico y el mundo. Encuentra la cobertura más completa sobre música, series, películas, cultura y televisión.",
+          "id": "/entretenimiento",
+          "keywords": "Música, Cine, Películas, Series, Artistas, Televisión, Farándula, Cultura, Teatro, Libros, Arte, Puerto Rico",
+          "name": "Entretenimiento",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/",
+          "slug": "entretenimiento"
+        },
+        "publishedDate": "2021-03-25T14:32:19.246Z",
+        "responsiveImages": {
+          "condensedTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/-G2f2vvdzyuSj3iZYEB365kHdbk=/108x108/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/-G2f2vvdzyuSj3iZYEB365kHdbk=/108x108/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg, https://www.elnuevodia.com/resizer/C6TgKhY9eYhp-0KEt3cJFBPPRKY=/216x216/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/tv1BlT24jRAQmvLYQZHpsRbosQE=/188x163/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/5R8k2wur3RfmDOm2eU52f1bg9PM=/564x489/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg, https://www.elnuevodia.com/resizer/46TX824C8jYUfSbJaTOP1HvY3hw=/1128x978/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/BG2jQo0C_2jYv9iQ4AnKBnywFYE=/71x62/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg, https://www.elnuevodia.com/resizer/0HuXoFg5jNfw_y0LtzOoidAyEic=/142x124/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/tv1BlT24jRAQmvLYQZHpsRbosQE=/188x163/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg, https://www.elnuevodia.com/resizer/vigs_aSQpmzSIT2h7xo8KoEJK_4=/376x326/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaserCondensed": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/gS7hqo1dyWEmQh7q7OCbqLfA63U=/141x70/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/5R8k2wur3RfmDOm2eU52f1bg9PM=/564x489/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg, https://www.elnuevodia.com/resizer/46TX824C8jYUfSbJaTOP1HvY3hw=/1128x978/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/6qCkReiaZ5RUxb10nPPz0hLuiJY=/71x36/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg, https://www.elnuevodia.com/resizer/U_ZIDMS_Ah8xLoAtv-WFq8JFGo8=/142x72/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/gS7hqo1dyWEmQh7q7OCbqLfA63U=/141x70/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg, https://www.elnuevodia.com/resizer/XgW7cBYu1WnI0uxxJe7j26E1Z5g=/282x140/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg 2x"
+              }
+            ]
+          },
+          "sixteenNine": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/dy3LceO9ub3FpwPtyyC-crYJ52M=/640x360/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/lw3N7b6VPm5vL32Uwx1bvN7m7cQ=/320x180/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg, https://www.elnuevodia.com/resizer/dy3LceO9ub3FpwPtyyC-crYJ52M=/640x360/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/dy3LceO9ub3FpwPtyyC-crYJ52M=/640x360/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg, https://www.elnuevodia.com/resizer/UoMzeFvz5DXyvFZ340Lyy9WevAE=/1280x720/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg 2x"
+              }
+            ]
+          },
+          "standardCondensableTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/TKX6agKfTYrFP-8tJNfdSSZAO4s=/980x980/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/-G2f2vvdzyuSj3iZYEB365kHdbk=/108x108/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg, https://www.elnuevodia.com/resizer/C6TgKhY9eYhp-0KEt3cJFBPPRKY=/216x216/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/o9qGdUm3dG7ED5dud0U24VO4nDA=/490x490/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg, https://www.elnuevodia.com/resizer/TKX6agKfTYrFP-8tJNfdSSZAO4s=/980x980/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/TKX6agKfTYrFP-8tJNfdSSZAO4s=/980x980/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg, https://www.elnuevodia.com/resizer/dksO99fvYVL2oJ8ajWevu-FyYQc=/1960x1960/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg 2x"
+              }
+            ]
+          },
+          "standardTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/hPBrtUuPHhxMJoXTm49WhthuLyY=/1200x596/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 375px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/eur7tJRPra4WgzExrIMJc5aW6MI=/271x134/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg, https://www.elnuevodia.com/resizer/zIei0Gi6IBPAvIaBytIL-fYcbug=/542x268/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/zsu-AfFzhE9uhjM0QvHb5S0lF6U=/600x298/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg, https://www.elnuevodia.com/resizer/hPBrtUuPHhxMJoXTm49WhthuLyY=/1200x596/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/hPBrtUuPHhxMJoXTm49WhthuLyY=/1200x596/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg, https://www.elnuevodia.com/resizer/Ekbg1B2hHI6nbyGSUPmnSYrF4e4=/2400x1192/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg 2x"
+              }
+            ]
+          }
+        },
+        "socialShare": {
+          "canonicalUrl": "/entretenimiento/peliculas-series/notas/national-treasure-la-serie-de-disney-tendra-una-protagonista-latina/",
+          "imageUrl": "https://www.elnuevodia.com/resizer/fjaU42wJt_vsbJhNx5wYTmuRiTc=/1200x1200/filters:quality(95):format(png):focal(465x325:475x315)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/MSVAQDV5JBCPBLI2UHIGGV5IXQ.jpg",
+          "subtitle": "La producción girará en torno a Jess Morales, una joven sin documentos y vinculada al programa de Acción Diferida Para los Llegados en la Infancia",
+          "title": "“National Treasure”, la serie de Disney+, tendrá una protagonista latina"
+        },
+        "subheadline": "La producción girará en torno a Jess Morales, una joven sin documentos y vinculada al programa de Acción Diferida Para los Llegados en la Infancia",
+        "subsection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas exclusivas de películas y series que se presentan tanto en las salas de cine como en los servicios de streaming. Encuentra la cobertura de premiaciones como los Oscar.",
+          "id": "/entretenimiento/peliculas-series",
+          "keywords": "Reseñas, Películas, Series, Cine, Streaming, Netflix, Hulu, Amazon Video, Apple TV, Entretenimiento, Crítico de cine, Oscars, Golden Globes",
+          "name": "Películas y series",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/peliculas-series",
+          "slug": "peliculas-series"
+        }
+      },
+      {
+        "adPromo": "",
+        "authors": [
+          {
+            "authorType": "Agency",
+            "avatar": {
+              "alt": "Agencia EFE",
+              "defaultUrl": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg",
+              "sources": [
+                {
+                  "srcSet": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg, https://www.elnuevodia.com/resizer/tpGy7ruILqPGqQZKs56fqCfKSOI=/340x294/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg 2x"
+                }
+              ]
+            },
+            "biography": "",
+            "byline": "Agencia EFE",
+            "email": "",
+            "id": "agencia-efe",
+            "image": "",
+            "link": "agencia-efe",
+            "longBiography": "",
+            "socialLinks": [
+              {
+                "site": "email",
+                "url": ""
+              }
+            ],
+            "status": true
+          }
+        ],
+        "canonicalUrl": "/entretenimiento/musica/notas/miley-cyrus-celebra-el-15-aniversario-de-hannah-montana-con-conmovedora-carta/",
+        "contentRestriction": "standard",
+        "contentType": "news",
+        "createdDate": "2021-03-25T13:56:44.289Z",
+        "displayDate": "2021-03-25T14:26:09.323Z",
+        "editorialGenre": "",
+        "firstPublishDate": "2021-03-25T14:26:37.189Z",
+        "headline": "Miley Cyrus celebra el 15 aniversario de “Hannah Montana” con conmovedora carta",
+        "id": "W7G5J2AADJEANOM5NIO373UNUU",
+        "language": "spanish",
+        "lastUpdatedDate": "2021-03-25T14:27:53.480Z",
+        "mainImageUrl": "https://www.elnuevodia.com/resizer/MuvP59gTXxoZGMF2k94nVjfVQec=/1024x0/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg",
+        "primarySection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas sobre entretenimiento en Puerto Rico y el mundo. Encuentra la cobertura más completa sobre música, series, películas, cultura y televisión.",
+          "id": "/entretenimiento",
+          "keywords": "Música, Cine, Películas, Series, Artistas, Televisión, Farándula, Cultura, Teatro, Libros, Arte, Puerto Rico",
+          "name": "Entretenimiento",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/",
+          "slug": "entretenimiento"
+        },
+        "publishedDate": "2021-03-25T14:27:53.484Z",
+        "responsiveImages": {
+          "condensedTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/V7_n52DqxQYBwnysqVBDtU8EeAo=/108x108/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/V7_n52DqxQYBwnysqVBDtU8EeAo=/108x108/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg, https://www.elnuevodia.com/resizer/Jfc_XVR0lBMzmWBySyeQkvQxFVA=/216x216/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/wX_5VjDXcfuhvsbuUMdyOu5BAp8=/188x163/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/NqFXDSQdLl_RjHubIYHcNv0tzYY=/564x489/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg, https://www.elnuevodia.com/resizer/reeJjxsTo6lnPRmXDM2zHL5HbKg=/1128x978/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/rN3wBXO_yXKTy5F7hERHVSBAJTM=/71x62/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg, https://www.elnuevodia.com/resizer/ssKAsKGP9kAZ282gRdiutuFzeyo=/142x124/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/wX_5VjDXcfuhvsbuUMdyOu5BAp8=/188x163/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg, https://www.elnuevodia.com/resizer/LpoFmjtyOcSPYZzuhfXeHfNwlEk=/376x326/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaserCondensed": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/ool9kmmfN8m-VwRVoMmnZ99aUFY=/141x70/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/NqFXDSQdLl_RjHubIYHcNv0tzYY=/564x489/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg, https://www.elnuevodia.com/resizer/reeJjxsTo6lnPRmXDM2zHL5HbKg=/1128x978/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/70nfIH-GqrvntkeUYm3Aw4tYRjE=/71x36/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg, https://www.elnuevodia.com/resizer/shU_6S6EVFHJxND6tUM56pDYLII=/142x72/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/ool9kmmfN8m-VwRVoMmnZ99aUFY=/141x70/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg, https://www.elnuevodia.com/resizer/c2zvf3GMy9NkV-Hpu4X4sOEnAJk=/282x140/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg 2x"
+              }
+            ]
+          },
+          "sixteenNine": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/SApWqaugbcsNd92n9WhvwslpPxk=/640x360/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/haHFPSGBqN5Jbz_ojc0UGeN-830=/320x180/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg, https://www.elnuevodia.com/resizer/SApWqaugbcsNd92n9WhvwslpPxk=/640x360/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/SApWqaugbcsNd92n9WhvwslpPxk=/640x360/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg, https://www.elnuevodia.com/resizer/JhcH1pc-A_p_j01ZNW1ei-3tNDU=/1280x720/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg 2x"
+              }
+            ]
+          },
+          "standardCondensableTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/417dB09fH3Yi7KE0iY1UCmQ6nt8=/980x980/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/V7_n52DqxQYBwnysqVBDtU8EeAo=/108x108/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg, https://www.elnuevodia.com/resizer/Jfc_XVR0lBMzmWBySyeQkvQxFVA=/216x216/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/ZOjYsrTupmfB_EIIZD9lfBV6eIo=/490x490/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg, https://www.elnuevodia.com/resizer/417dB09fH3Yi7KE0iY1UCmQ6nt8=/980x980/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/417dB09fH3Yi7KE0iY1UCmQ6nt8=/980x980/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg, https://www.elnuevodia.com/resizer/J5q3JghJe1GcywoqHTS0MeJtH1g=/1960x1960/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg 2x"
+              }
+            ]
+          },
+          "standardTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/YvgPmR6-Fc3NOmjKYnkbStPBrZs=/1200x596/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 375px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/prr8Hiow2rE_bKN2b-9NHkxHmEo=/271x134/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg, https://www.elnuevodia.com/resizer/D7SILIGODlGbgb_0ZUORcF3x6vM=/542x268/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/5_dTdbE4lOCHZOcBTfIXzP4C7Ro=/600x298/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg, https://www.elnuevodia.com/resizer/YvgPmR6-Fc3NOmjKYnkbStPBrZs=/1200x596/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/YvgPmR6-Fc3NOmjKYnkbStPBrZs=/1200x596/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg, https://www.elnuevodia.com/resizer/YkqCsA0mbHP7sFiO7YYtI5qGMts=/2400x1192/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg 2x"
+              }
+            ]
+          }
+        },
+        "socialShare": {
+          "canonicalUrl": "/entretenimiento/musica/notas/miley-cyrus-celebra-el-15-aniversario-de-hannah-montana-con-conmovedora-carta/",
+          "imageUrl": "https://www.elnuevodia.com/resizer/KhWtX9Ap8ThowRLPtYdCRWIbas4=/1200x1200/filters:quality(95):format(png):focal(1341x599:1351x589)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/F25HII54GZEJRNEELTCEYBYXNM.jpg",
+          "subtitle": "La popular serie de Disney Channel estrenó el 24 de marzo de 2006 con récord de audiencia para un formato original ",
+          "title": "Miley Cyrus celebra el 15 aniversario de “Hannah Montana” con conmovedora carta"
+        },
+        "subheadline": "La popular serie de Disney Channel estrenó el 24 de marzo de 2006 con récord de audiencia para un formato original ",
+        "subsection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias sobre estrenos musiciales, entrevistas exclusivas a cantantes, reseñas de conciertos y mucho más.",
+          "id": "/entretenimiento/musica",
+          "keywords": "Música, Cantante, Álbum, Disco, Canción, Single, Entrevista, Reseña, Entretenimiento, Concierto, Coliseo de Puerto Rico",
+          "name": "Música",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/musica/",
+          "slug": "musica"
+        }
+      },
+      {
+        "adPromo": "",
+        "authors": [
+          {
+            "authorType": "Agency",
+            "avatar": {
+              "alt": "The Associated Press",
+              "defaultUrl": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg",
+              "sources": [
+                {
+                  "srcSet": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg, https://www.elnuevodia.com/resizer/tpGy7ruILqPGqQZKs56fqCfKSOI=/340x294/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg 2x"
+                }
+              ]
+            },
+            "biography": "",
+            "byline": "The Associated Press",
+            "email": "",
+            "id": "the-associated-press",
+            "image": "",
+            "link": "the-associated-press",
+            "longBiography": "",
+            "socialLinks": [
+              {
+                "site": "email",
+                "url": ""
+              }
+            ],
+            "status": true
+          }
+        ],
+        "canonicalUrl": "/entretenimiento/farandula/notas/bono-y-penelope-cruz-reclaman-acceso-universal-a-la-vacuna-de-covid-19/",
+        "contentRestriction": "standard",
+        "contentType": "news",
+        "createdDate": "2021-03-25T13:31:00.188Z",
+        "displayDate": "2021-03-25T14:23:27.139Z",
+        "editorialGenre": "",
+        "firstPublishDate": "2021-03-25T14:23:53.832Z",
+        "headline": "Bono y Penélope Cruz reclaman acceso universal a la vacuna de COVID-19",
+        "id": "RBJBTL3ZPFHHZKTR4L3YUVFG4E",
+        "language": "spanish",
+        "lastUpdatedDate": "2021-03-25T14:23:54.070Z",
+        "mainImageUrl": "https://www.elnuevodia.com/resizer/Tb1zZM3OYKQAD_ykp23nSkOQBFc=/1024x0/center/top/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg",
+        "primarySection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas sobre entretenimiento en Puerto Rico y el mundo. Encuentra la cobertura más completa sobre música, series, películas, cultura y televisión.",
+          "id": "/entretenimiento",
+          "keywords": "Música, Cine, Películas, Series, Artistas, Televisión, Farándula, Cultura, Teatro, Libros, Arte, Puerto Rico",
+          "name": "Entretenimiento",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/",
+          "slug": "entretenimiento"
+        },
+        "publishedDate": "2021-03-25T14:23:54.075Z",
+        "responsiveImages": {
+          "condensedTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/rUifb9Jvhn-B_Kv9f2K8YUGUTiY=/108x108/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/rUifb9Jvhn-B_Kv9f2K8YUGUTiY=/108x108/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg, https://www.elnuevodia.com/resizer/m6w_liqKuu59l2ELs09DEaiAOVw=/216x216/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/AdsjuPsKtyXR6eNVb5nDUQRP_YU=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/aQ5kxuGy_3gQFwTSLRRxU0buBnw=/564x489/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg, https://www.elnuevodia.com/resizer/1ZjOAa8G_WBiOKTwURmHDswzrjU=/1128x978/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/of4tsUPkyUmnoIG3FHLg-nllPxI=/71x62/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg, https://www.elnuevodia.com/resizer/ZU1C7zSj1GvXNkSL5lPKnb_hdI0=/142x124/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/AdsjuPsKtyXR6eNVb5nDUQRP_YU=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg, https://www.elnuevodia.com/resizer/9z1adjhLeMYZfkgBSzMOBHD1UxI=/376x326/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaserCondensed": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/_0ctb-u-SKttQ0TfJLuxn_UBr4w=/141x70/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/aQ5kxuGy_3gQFwTSLRRxU0buBnw=/564x489/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg, https://www.elnuevodia.com/resizer/1ZjOAa8G_WBiOKTwURmHDswzrjU=/1128x978/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/j7jb9oJvl-p27sISdLaQQPbnCSo=/71x36/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg, https://www.elnuevodia.com/resizer/ewRZWOU11iYnEm4HNkcZxrihSmE=/142x72/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/_0ctb-u-SKttQ0TfJLuxn_UBr4w=/141x70/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg, https://www.elnuevodia.com/resizer/Q1tU0KkLTT1nwDEGsM7pu30J8LU=/282x140/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg 2x"
+              }
+            ]
+          },
+          "sixteenNine": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/NExWGHYu_9FaXOhBK3gaclONcVY=/640x360/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/2kn49Udk6dgbORFJ5W5I1PUqO8Q=/320x180/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg, https://www.elnuevodia.com/resizer/NExWGHYu_9FaXOhBK3gaclONcVY=/640x360/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/NExWGHYu_9FaXOhBK3gaclONcVY=/640x360/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg, https://www.elnuevodia.com/resizer/Zy47iNoMtbNPW0md3xDJbUcsh3g=/1280x720/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg 2x"
+              }
+            ]
+          },
+          "standardCondensableTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/CvTHZcpiKSA7t1oOG5H5ci5XRj0=/980x980/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/rUifb9Jvhn-B_Kv9f2K8YUGUTiY=/108x108/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg, https://www.elnuevodia.com/resizer/m6w_liqKuu59l2ELs09DEaiAOVw=/216x216/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/JCxMjFyuOwM0YLW9GLtrzME5LwY=/490x490/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg, https://www.elnuevodia.com/resizer/CvTHZcpiKSA7t1oOG5H5ci5XRj0=/980x980/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/CvTHZcpiKSA7t1oOG5H5ci5XRj0=/980x980/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg, https://www.elnuevodia.com/resizer/-Chj7n6GBb3T0cmwChBctu0H54I=/1960x1960/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg 2x"
+              }
+            ]
+          },
+          "standardTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/2ntyUPG3bA9SrH_dwMtUYgV97PM=/1200x596/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 375px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/Xr0A4wXi4quvJnqMWQm30ArAYs8=/271x134/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg, https://www.elnuevodia.com/resizer/a_Nqd4QLvQILfgxqAPv4OPRMPAA=/542x268/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/kS1doTnR8tpH0fzKNBnX6UtRrFs=/600x298/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg, https://www.elnuevodia.com/resizer/2ntyUPG3bA9SrH_dwMtUYgV97PM=/1200x596/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/2ntyUPG3bA9SrH_dwMtUYgV97PM=/1200x596/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg, https://www.elnuevodia.com/resizer/FoWbeXKC0WJNCt12bQNY6RoFiMY=/2400x1192/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg 2x"
+              }
+            ]
+          }
+        },
+        "socialShare": {
+          "canonicalUrl": "/entretenimiento/farandula/notas/bono-y-penelope-cruz-reclaman-acceso-universal-a-la-vacuna-de-covid-19/",
+          "imageUrl": "https://www.elnuevodia.com/resizer/6uY4xwM8in4Bwy9VCy7l0jMVwqU=/1200x1200/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/SKH6JFU2QREXPHMU5B73XAMNX4.jpg",
+          "subtitle": "Ambos artistas son parte de la nueva serie “Pandémica” que estrenó hoy en Youtube y busca llamar la atención sobre esta situación como parte de los esfuerzos para terminar con la pandemia ",
+          "title": "Bono y Penélope Cruz reclaman acceso universal a la vacuna de COVID-19"
+        },
+        "subheadline": "Ambos artistas son parte de la nueva serie “Pandémica” que estrenó hoy en Youtube y busca llamar la atención sobre esta situación como parte de los esfuerzos para terminar con la pandemia ",
+        "subsection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y entrevistas a los famosos del mundo del espectáculo de Puerto Rico sobre sus proyectos, aspiraciones y vida personal. Encontrarás también la cobertura sobre las reinas de belleza.",
+          "id": "/entretenimiento/farandula",
+          "keywords": "Artista, Farándula, Entrevista, Proyectos, Reina de Belleza, Miss Universe, Miss Mundo, Entretenimiento",
+          "name": "Farándula",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/farandula/",
+          "slug": "farandula"
+        }
+      },
+      {
+        "adPromo": "",
+        "authors": [
+          {
+            "authorType": "Agency",
+            "avatar": {
+              "alt": "Agencia EFE",
+              "defaultUrl": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg",
+              "sources": [
+                {
+                  "srcSet": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg, https://www.elnuevodia.com/resizer/tpGy7ruILqPGqQZKs56fqCfKSOI=/340x294/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg 2x"
+                }
+              ]
+            },
+            "biography": "",
+            "byline": "Agencia EFE",
+            "email": "",
+            "id": "agencia-efe",
+            "image": "",
+            "link": "agencia-efe",
+            "longBiography": "",
+            "socialLinks": [
+              {
+                "site": "email",
+                "url": ""
+              }
+            ],
+            "status": true
+          }
+        ],
+        "canonicalUrl": "/entretenimiento/television/notas/johnny-depp-no-podra-apelar-el-fallo-que-lo-acusa-de-maltratar-a-amber-heard/",
+        "contentRestriction": "standard",
+        "contentType": "news",
+        "createdDate": "2021-03-25T13:06:43.233Z",
+        "displayDate": "2021-03-25T13:58:16.957Z",
+        "editorialGenre": "",
+        "firstPublishDate": "2021-03-25T13:58:43.495Z",
+        "headline": "Johnny Depp no podrá apelar el fallo que lo acusa de maltratar a Amber Heard",
+        "id": "SRMLKNO5HRD4RMHIN5EJF73DH4",
+        "language": "spanish",
+        "lastUpdatedDate": "2021-03-25T13:58:43.715Z",
+        "mainImageUrl": "https://www.elnuevodia.com/resizer/GQtAIFOlU2DdpBf-vJbE022A_C8=/1024x0/center/top/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg",
+        "primarySection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas sobre entretenimiento en Puerto Rico y el mundo. Encuentra la cobertura más completa sobre música, series, películas, cultura y televisión.",
+          "id": "/entretenimiento",
+          "keywords": "Música, Cine, Películas, Series, Artistas, Televisión, Farándula, Cultura, Teatro, Libros, Arte, Puerto Rico",
+          "name": "Entretenimiento",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/",
+          "slug": "entretenimiento"
+        },
+        "publishedDate": "2021-03-25T13:58:43.720Z",
+        "responsiveImages": {
+          "condensedTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/MqFORr0_TzXEva_fk9ysmUBxZbY=/108x108/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/MqFORr0_TzXEva_fk9ysmUBxZbY=/108x108/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg, https://www.elnuevodia.com/resizer/pY0n9xkce5t4klkAQAOGXYUoG6Q=/216x216/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/rH8bymgyRP-Vas6PllA8OHOoApk=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/kK6jk_R8yn38nAHewkXfPUKQvGk=/564x489/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg, https://www.elnuevodia.com/resizer/N7jE1DzPOgJuNUtpRFr5ohVYruk=/1128x978/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/NQZuz4aZ34ru6vPmwXnKMnSgJjk=/71x62/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg, https://www.elnuevodia.com/resizer/qKk19Ms3ysVDEvDXvfpuCZdaDxA=/142x124/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/rH8bymgyRP-Vas6PllA8OHOoApk=/188x163/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg, https://www.elnuevodia.com/resizer/83tMfzYbxePkfoFsGNN_RARq-Xw=/376x326/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaserCondensed": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/HmojfwpfVJgqW2udWK6r44cOIAA=/141x70/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/kK6jk_R8yn38nAHewkXfPUKQvGk=/564x489/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg, https://www.elnuevodia.com/resizer/N7jE1DzPOgJuNUtpRFr5ohVYruk=/1128x978/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/SYOS1AqjbA-_GQWnG7MNQYyHpuM=/71x36/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg, https://www.elnuevodia.com/resizer/fQaA9gwX8OzXXoNKTGP2qhMcJUQ=/142x72/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/HmojfwpfVJgqW2udWK6r44cOIAA=/141x70/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg, https://www.elnuevodia.com/resizer/o9uPOJVCOa2v1oOPl5kzyT7lKzA=/282x140/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg 2x"
+              }
+            ]
+          },
+          "sixteenNine": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/ITRJyjco4Bgpqf8LyyJqTc-v07Q=/640x360/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/MV1mstHm9oZnx_34fj30tgbGnmU=/320x180/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg, https://www.elnuevodia.com/resizer/ITRJyjco4Bgpqf8LyyJqTc-v07Q=/640x360/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/ITRJyjco4Bgpqf8LyyJqTc-v07Q=/640x360/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg, https://www.elnuevodia.com/resizer/wKGNFSqjmIW0WzBlqYnG_AYKUEc=/1280x720/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg 2x"
+              }
+            ]
+          },
+          "standardCondensableTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/n-Rfovj43gVNYhP0oxnAGu34h7s=/980x980/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/MqFORr0_TzXEva_fk9ysmUBxZbY=/108x108/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg, https://www.elnuevodia.com/resizer/pY0n9xkce5t4klkAQAOGXYUoG6Q=/216x216/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/EQIligtSatlxyJEngILKUmeJ1WY=/490x490/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg, https://www.elnuevodia.com/resizer/n-Rfovj43gVNYhP0oxnAGu34h7s=/980x980/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/n-Rfovj43gVNYhP0oxnAGu34h7s=/980x980/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg, https://www.elnuevodia.com/resizer/sTLUHeP-v4Z4LZ11y5hYyfsM9Bs=/1960x1960/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg 2x"
+              }
+            ]
+          },
+          "standardTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/NRXIVfthzcOEf81lTh2546bqlEE=/1200x596/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 375px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/oumcSgxfowS9edWGhfwY_a3xgK8=/271x134/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg, https://www.elnuevodia.com/resizer/qgrE6c4ZjjWkFvqiWB-tl9buS-c=/542x268/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/Fus2s40cDhuBxFALta_r2U_p16A=/600x298/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg, https://www.elnuevodia.com/resizer/NRXIVfthzcOEf81lTh2546bqlEE=/1200x596/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/NRXIVfthzcOEf81lTh2546bqlEE=/1200x596/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg, https://www.elnuevodia.com/resizer/0uDcxXxQNOpCRio0qXDadm8Ti7w=/2400x1192/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg 2x"
+              }
+            ]
+          }
+        },
+        "socialShare": {
+          "canonicalUrl": "/entretenimiento/television/notas/johnny-depp-no-podra-apelar-el-fallo-que-lo-acusa-de-maltratar-a-amber-heard/",
+          "imageUrl": "https://www.elnuevodia.com/resizer/QD3z8s1VwTekcKkgn3koIJeJhAs=/1200x1200/smart/filters:quality(95):format(png)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/Y467C5E3Y5EHLKDMGB3PBRYFAM.jpg",
+          "subtitle": "La actriz aseguró que fue víctima de agresiones y maltrato por parte del actor cuando estaban casados",
+          "title": "Johnny Depp no podrá apelar el fallo que lo acusa de maltratar a Amber Heard"
+        },
+        "subheadline": "La actriz aseguró que fue víctima de agresiones y maltrato por parte del actor cuando estaban casados",
+        "subsection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas exclusivas de películas y series que se presentan tanto en las salas de cine como en los servicios de streaming. Encuentra la cobertura de premiaciones como los Oscar.",
+          "id": "/entretenimiento/peliculas-series",
+          "keywords": "Reseñas, Películas, Series, Cine, Streaming, Netflix, Hulu, Amazon Video, Apple TV, Entretenimiento, Crítico de cine, Oscars, Golden Globes",
+          "name": "Películas y series",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/peliculas-series",
+          "slug": "peliculas-series"
+        }
+      },
+      {
+        "adPromo": "",
+        "authors": [
+          {
+            "authorType": "Agency",
+            "avatar": {
+              "alt": "The Associated Press",
+              "defaultUrl": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg",
+              "sources": [
+                {
+                  "srcSet": "https://www.elnuevodia.com/resizer/LgIIIvhyhmluLBVDzmRc8UXYNag=/170x147/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg, https://www.elnuevodia.com/resizer/tpGy7ruILqPGqQZKs56fqCfKSOI=/340x294/smart/filters:quality(95):format(png)/www.elnuevodia.com/resizer/TH7ViUz8GQqmDCoOGNnUgmnCJ1o=/arc-anglerfish-arc2-prod-gfrmedia.s3.amazonaws.com/public/2KQNWP4Y6FBWTH27L4G5OSEPRI.jpeg 2x"
+                }
+              ]
+            },
+            "biography": "",
+            "byline": "The Associated Press",
+            "email": "",
+            "id": "the-associated-press",
+            "image": "",
+            "link": "the-associated-press",
+            "longBiography": "",
+            "socialLinks": [
+              {
+                "site": "email",
+                "url": ""
+              }
+            ],
+            "status": true
+          }
+        ],
+        "canonicalUrl": "/entretenimiento/peliculas-series/notas/productores-consolidan-a-nomadland-como-favorita-a-los-premios-oscar/",
+        "contentRestriction": "standard",
+        "contentType": "news",
+        "createdDate": "2021-03-25T12:16:20.509Z",
+        "displayDate": "2021-03-25T12:45:24.251Z",
+        "editorialGenre": "",
+        "firstPublishDate": "2021-03-25T12:45:25.794Z",
+        "headline": "Productores consolidan a “Nomadland” como favorita a los premios Oscar",
+        "id": "WJHGBJEW25BGHITTVNF5T2BH74",
+        "language": "spanish",
+        "lastUpdatedDate": "2021-03-25T12:45:26.040Z",
+        "mainImageUrl": "https://www.elnuevodia.com/resizer/0fdjGHXahOqwfV63FK-WQNo1K7U=/1024x0/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg",
+        "primarySection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas sobre entretenimiento en Puerto Rico y el mundo. Encuentra la cobertura más completa sobre música, series, películas, cultura y televisión.",
+          "id": "/entretenimiento",
+          "keywords": "Música, Cine, Películas, Series, Artistas, Televisión, Farándula, Cultura, Teatro, Libros, Arte, Puerto Rico",
+          "name": "Entretenimiento",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/",
+          "slug": "entretenimiento"
+        },
+        "publishedDate": "2021-03-25T12:45:26.048Z",
+        "responsiveImages": {
+          "condensedTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/HABbHiRxb390XEeWU6fVeoeFhhQ=/108x108/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/HABbHiRxb390XEeWU6fVeoeFhhQ=/108x108/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg, https://www.elnuevodia.com/resizer/wc-Okf6AkRLRQ-clrca3gy9mSFU=/216x216/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/2ozwwMWvDEofFcjI8WJns0rNjog=/188x163/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/LvvCoQhLZJXshU77x7rDu-mvAio=/564x489/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg, https://www.elnuevodia.com/resizer/P2r-zm-3R523AzD85HIYOxXsN70=/1128x978/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/CBiDE0eqKBcqQGhsjx8j9Nc5b00=/71x62/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg, https://www.elnuevodia.com/resizer/2o5w5jAY3jTfzCnEhNzD7-UCgGQ=/142x124/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/2ozwwMWvDEofFcjI8WJns0rNjog=/188x163/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg, https://www.elnuevodia.com/resizer/oS5kHRU8VQsugNSiEOKNTyFXS5o=/376x326/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg 2x"
+              }
+            ]
+          },
+          "listItemTeaserCondensed": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/vb56zh-Rw0LXVwOmSA8oynbVYVc=/141x70/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 749px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/LvvCoQhLZJXshU77x7rDu-mvAio=/564x489/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg, https://www.elnuevodia.com/resizer/P2r-zm-3R523AzD85HIYOxXsN70=/1128x978/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg 2x"
+              },
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/NC-NfycQwGbITgxLNmZ2rC_hrHI=/71x36/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg, https://www.elnuevodia.com/resizer/BjRs6PXyIJ2iri2ysNJQPWIpV-s=/142x72/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/vb56zh-Rw0LXVwOmSA8oynbVYVc=/141x70/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg, https://www.elnuevodia.com/resizer/pM_t6rtfCBi84nuQ57eMGT8QfZ8=/282x140/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg 2x"
+              }
+            ]
+          },
+          "sixteenNine": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/RLnV4n6oUZr2IjZGDddKo3fc_Uw=/640x360/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg",
+            "sources": [
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/oOR6nKdGShlvdvIB-7VEEBSdZfE=/320x180/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg, https://www.elnuevodia.com/resizer/RLnV4n6oUZr2IjZGDddKo3fc_Uw=/640x360/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/RLnV4n6oUZr2IjZGDddKo3fc_Uw=/640x360/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg, https://www.elnuevodia.com/resizer/jumyJd6YbCjfmIw5G1NRCAQYJZw=/1280x720/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg 2x"
+              }
+            ]
+          },
+          "standardCondensableTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/mqQ1uQVwctJf4g90UCwoHbsXG54=/980x980/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 768px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/HABbHiRxb390XEeWU6fVeoeFhhQ=/108x108/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg, https://www.elnuevodia.com/resizer/wc-Okf6AkRLRQ-clrca3gy9mSFU=/216x216/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/hf3gBdHHwnzcVYCM6KWgafFJlbw=/490x490/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg, https://www.elnuevodia.com/resizer/mqQ1uQVwctJf4g90UCwoHbsXG54=/980x980/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/mqQ1uQVwctJf4g90UCwoHbsXG54=/980x980/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg, https://www.elnuevodia.com/resizer/_Yjh38Xf4O8kgxNpZLpYAXo0Nhw=/1960x1960/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg 2x"
+              }
+            ]
+          },
+          "standardTeaser": {
+            "defaultUrl": "https://www.elnuevodia.com/resizer/HFzrrZnK23VXS-tTd2XALkEd9Bo=/1200x596/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg",
+            "sources": [
+              {
+                "media": "(max-width: 375px)",
+                "srcSet": "https://www.elnuevodia.com/resizer/n-VX_W_bJQ7D_aInGE-sphM_yps=/271x134/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg, https://www.elnuevodia.com/resizer/PI0-LkTLZRiy_Pj9kNffzXzNh6g=/542x268/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/e0Vm0UjhYRQZI3EpJhrxFmvZ0Vg=/600x298/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg, https://www.elnuevodia.com/resizer/HFzrrZnK23VXS-tTd2XALkEd9Bo=/1200x596/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg 2x"
+              },
+              {
+                "srcSet": "https://www.elnuevodia.com/resizer/HFzrrZnK23VXS-tTd2XALkEd9Bo=/1200x596/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg, https://www.elnuevodia.com/resizer/duSwhol-TTH3ZpyHkLfq4eHuaFc=/2400x1192/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg 2x"
+              }
+            ]
+          }
+        },
+        "socialShare": {
+          "canonicalUrl": "/entretenimiento/peliculas-series/notas/productores-consolidan-a-nomadland-como-favorita-a-los-premios-oscar/",
+          "imageUrl": "https://www.elnuevodia.com/resizer/T2Jdrc8BaKXkafMU2Amyf3xUXmc=/1200x1200/filters:quality(95):format(png):focal(1843x1755:1853x1745)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/E7WVEQNLUBDJDLZRBXPKLZYI24.jpg",
+          "subtitle": "La película de Chloé Zhao recibió el galardón como mejor película de los premios del Sindicato de Productores de Estados Unidos ",
+          "title": "Productores consolidan a “Nomadland” como favorita a los premios Oscar"
+        },
+        "subheadline": "La película de Chloé Zhao recibió el galardón como mejor película de los premios del Sindicato de Productores de Estados Unidos ",
+        "subsection": {
+          "adPromo": "",
+          "associatedSection": "",
+          "brandshareAdPromo": "",
+          "brandshareImageUrl": "",
+          "columnDescription": "",
+          "columnName": "",
+          "columnTwitter": "",
+          "description": "Noticias y reseñas exclusivas de películas y series que se presentan tanto en las salas de cine como en los servicios de streaming. Encuentra la cobertura de premiaciones como los Oscar.",
+          "id": "/entretenimiento/peliculas-series",
+          "keywords": "Reseñas, Películas, Series, Cine, Streaming, Netflix, Hulu, Amazon Video, Apple TV, Entretenimiento, Crítico de cine, Oscars, Golden Globes",
+          "name": "Películas y series",
+          "sectionImageUrl": "",
+          "sectionTeaserImages": null,
+          "sectionUrl": "/entretenimiento/peliculas-series",
+          "slug": "peliculas-series"
+        }
+      }
+    ],
+    "count": 76080,
+    "next": 12,
+    "_id": "3bbed3afc1372a8b4038c91e4282eb3bc8a4b0c21dcd9cbe66b73c362cc87dfc"
+  }
+}
